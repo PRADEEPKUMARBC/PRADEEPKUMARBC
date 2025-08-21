@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 I’m currently learning **React.js, Django, and Backend Development**  
+- 🌱 I’m currently learning **React.js, and Backend Development**  
 - 👨‍💻 All of my projects are available at 👉 [GitHub](https://github.com/PRADEEPKUMARBC)  
 - 📫 How to reach me: **pradeepkumarbc138@gmail.com**  
 - ⚡ Fun fact: *I love solving real-world problems with code*  
