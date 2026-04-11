@@ -1,72 +1,130 @@
+<!-- 🌊 Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=220&section=header&text=Pradeepkumar%20B%20C&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<!-- 🎬 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Integrated+Web+App+Builder;MERN+%7C+Django+%7C+FastAPI;IoT+%7C+Arduino+Enthusiast;Building+Real+World+Projects+🚀"/>
+</p>
+
+---
+
 <h1 align="center">Hi 👋, I'm PRADEEPKUMAR B C</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer from India</h3>
+<h3 align="center">🚀 Full Stack Developer | AI Integrated Web Applications</h3>
 
 ---
 
+<!-- 👁️ Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pradeepkumarbc&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  <a href="https://twitter.com/codequest" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/codequest?logo=twitter&style=for-the-badge" alt="Twitter"/>
+  <img src="https://komarev.com/ghpvc/?username=pradeepkumarbc&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+## 👨‍💻 About Me  
+
+- 🔥 Passionate about building **AI-powered web applications**
+- 🌱 Currently exploring **Advanced Backend & Scalable Systems**
+- 💡 Love working with **MERN + Django + FastAPI**
+- 🧠 Strong in **DSA using Python**
+- ⚡ I build **real-world impactful projects (Web + IoT)**  
+
+---
+
+<!-- 🎥 Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+---
+
+## 🚀 Tech Stack  
+
+<!-- ⚡ Animated Skill Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,django,flask,fastapi,mongodb,mysql,postgres,python,c,git,github,gitlab,postman,vscode,arduino,vercel,tailwind,bootstrap,numpy,pandas,matplotlib"/>
+</p>
+
+---
+
+## 🧠 Programming & Tools  
+
+- 💻 Languages: Python, JavaScript, C  
+- 🌐 Frontend: HTML5, CSS3, Bootstrap, TailwindCSS, React.js  
+- ⚙️ Backend: Django, Node.js, Express.js, FastAPI, Flask  
+- 🛢️ Database: MongoDB, PostgreSQL, MySQL  
+- 🔧 Tools: Git, GitHub, GitLab, Postman, VS Code, Arduino IDE, Vercel  
+
+---
+
+## 🚀 Featured Projects  
+
+- 🛒 **E-Commerce Web Application**  
+  → Full-stack app with authentication, cart & admin panel  
+
+- 🎧 **Spotify Clone**  
+  → Music streaming UI with React  
+
+- 🐄 **Smart Cattle Monitoring System**  
+  → IoT-based livestock tracking using Arduino + GPS  
+
+- 🤖 **AI News Aggregator**  
+  → AI-based domain-specific news filtering  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeepkumarbc&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepkumarbc&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepkumarbc&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pradeepkumarbc&theme=onedark&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pradeepkumarbc/pradeepkumarbc/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 💬 Random Dev Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pradeepkumar-b-c-355801312">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-- 🌱 I’m currently learning **React.js, and Backend Development**  
-- 👨‍💻 All of my projects are available at 👉 [GitHub](https://github.com/PRADEEPKUMARBC)  
-- 📫 How to reach me: **pradeepkumarbc138@gmail.com**  
-- ⚡ Fun fact: *I love solving real-world problems with code*  
-
----
-
-### 🌐 Connect with Me  
-<p align="left">
-<a href="https://twitter.com/codequest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pradeepkumar-b-c-355801312?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/c/CodeQuest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
-</p>
-
----
-
-### 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</p>
-
----
-
-### ☕ Support Me  
-<p>
-  <a href="https://www.buymeacoffee.com/PRADEEPKUMARBC">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats  
+<!-- 🌊 Footer -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeepkumarbc&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeepkumarbc&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepkumarbc&" alt="Streak Stats"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=120&section=footer"/>
 </p>
