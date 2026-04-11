@@ -30,7 +30,7 @@ Dark + Neon Hacker Theme | Full Stack Developer | AI Integrated Web Apps
       <p>💡 I build scalable, intelligent systems that merge frontend elegance with backend power.</p>
       <p>🎯 Currently diving deeper into <strong>Generative AI</strong> & <strong>IoT Edge Computing</strong>.</p>
       <p>🌱 Open to collaborate on AI + Web3 / Smart Automation projects.</p>
-      <p>📫 Reach me: <strong>pradeep@example.com</strong> | <strong>@pradeepkumar_bc</strong></p>
+      <p>📫 Reach me: <strong>pradeepkumarbc138@gmail.com</strong> | <strong>Pradeepkumar B C</strong></p>
     </td>
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF" style="border-radius: 12px; box-shadow: 0 0 15px #00FFAA55;" />
