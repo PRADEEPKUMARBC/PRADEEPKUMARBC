@@ -61,7 +61,7 @@ Check out my pinned repositories below for hands‑on projects:
 
 Let's create impactful tech solutions together! Reach out to brainstorm, collaborate, or simply connect.
 
-📧 **Email:** pradeep@example.com  
+📧 **Email:** pradeepkumarbc138@gmail.com 
 
 🌐 **Socials:**  
 [GitHub](https://github.com/PradeepkumarBC) • [LinkedIn](https://linkedin.com/in/pradeepkumar-bc) • [Twitter](https://twitter.com/pradeepkumar_bc)
