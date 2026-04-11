@@ -23,7 +23,7 @@ Design inspired by beereshbc/README.md with dark neon hacker enhancements
 
 💻 **Tech Specialization:** React + Django / Node.js + AI/ML integration (NumPy, Pandas, Matplotlib) – crafting seamless experiences from frontend to backend.
 
-🎓 **Education:** Computer Science graduate with a focus on AI & IoT.
+🎓 **Education:** Electronics and Communication graduate with a focus on AI & IoT.
 
 🌱 **Lifelong Learner:** Constantly exploring Generative AI, Edge Computing, and modern full‑stack architectures.
 
